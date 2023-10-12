@@ -90,7 +90,7 @@ $assemblyCode
 	}
 
 	if ($macroName) {
-		$cleanedLine = $line -replace 'asm\(', '' -replace '\\\"', '`"' -replace '\\\\', '\\' -replace '\\$', ',' -replace '\);', ''
+		$cleanedLine = $line -replace 'asm \(', '' -replace '\\\"', '`"' -replace '\\\\', '\\' -replace '\\$', ',' -replace '\);', ''
 		if ($line -match "\\n$") {
 			$cleanedLine += "\n"
 		}
