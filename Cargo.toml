@@ -1,0 +1,11 @@
+[package]
+name = "themida_sdk_rust_bindings"
+version = "0.0.1"
+authors = ["Daniel Oppermann <contact@dan0xe.me>"]
+
+[lib]
+name = "vm"
+path = "src/lib.rs"
+
+
+
