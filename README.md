@@ -1,4 +1,4 @@
-# TSTRAB - Rust Bindings for ThemidaSDK
+# Remida - Rust Bindings for ThemidaSDK
 
 This repo contains Generators for creating Rust bindings from the ThemidaSDK
 
