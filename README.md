@@ -1,5 +1,10 @@
 # Remida - Rust Bindings for ThemidaSDK
 
+>[!IMPORTANT]
+> I've decided to archive this Repo as Themida now provides Rust bindings out of the box. On a personal note, Oreans has failed to address more than 20 bug reports over the span of two years and continues to bang rocks together. Their products should *never* be used in production by any serious company.
+
+![Oreans Spinlock](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVkNjNjMzNjMWE3OWFlMDg3OTE0OTQzNWEyMzU5NTA1MWFmYTQ2ZSZjdD1n/3sZNvuySFIuUW9EBuq/giphy.gif)
+
 This repo contains Generators for creating Rust bindings from the ThemidaSDK
 
 If you're looking to use ThemidaSDK's VM protection macros (and other macros) in your Rust project, you're in the right place!
